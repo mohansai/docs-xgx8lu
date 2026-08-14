@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-yoik5b.date-me.pro/sitemap.xml
